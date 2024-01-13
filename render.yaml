@@ -2,7 +2,7 @@ services:
   - type: web
     name: buckingham0912
     env: docker
-    repo: https://gitlab.com/buckingham0912/oai-proxy.git
+    repo: https://github.com/buckingham0912/cov.git
     region: oregon
     plan: free
     branch: main
