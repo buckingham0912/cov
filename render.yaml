@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: oai-proxy
+    name: buckingham0912
     env: docker
-    repo: https://gitlab.com/khanon/oai-proxy.git
+    repo: buckingham0912
     region: oregon
     plan: free
     branch: main
